@@ -2,7 +2,7 @@
 
 This repository contains the processed bilingual dataset developed as part of the research work submitted for publication. The dataset focuses on **government schemes for farmers in India** and is provided here as supplementary material to support reproducibility, transparency, and further exploration by the research community.
 
-## 📂 Repository Contents
+## Repository Contents
 - **`scheme_details en - english schemes.csv`**  
   Contains curated scheme details in English.
 
@@ -18,7 +18,7 @@ This repository contains the processed bilingual dataset developed as part of th
 - **`.gitignore`, `LICENSE`, `README.md`**  
   Standard repository files.
 
-## 🧾 Dataset Description
+## Dataset Description
 The dataset has been curated from **official government portals** and includes key details such as:
 - Scheme name  
 - Eligibility criteria  
